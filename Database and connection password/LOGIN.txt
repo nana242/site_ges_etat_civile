@@ -1,0 +1,11 @@
+
+**Database Name: etacivil1**
+
+**Developed by BAV BATETANA**
+
+**Login Details**
+
+Username: admin
+Password: bavelly1010;
+
+

@@ -1,0 +1,22 @@
+footer{
+    position: absolute;
+    text-align: center;
+    background-color:#333;
+    color:#fff;
+    padding:15px 0 5px 0;
+    bottom:0;
+    width: 100%;
+    position: fixed;
+ }
+ @media(max-width:709px){
+   
+    div footer{
+      padding: 5px;
+      color: #fff;
+      font-size: 16px;
+      text-align: center;
+      background: #333;
+      font-family: 'poppins';
+    }
+    
+  } 
